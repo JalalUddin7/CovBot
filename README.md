@@ -5,6 +5,7 @@ Many employees have questions regarding COVID-19 and their company’s response 
 Credit: Based on Joe Plumb’s suggestion.
 
 ## Demo
+The demo's knowledge base is based on Washington DC's COVID-19 citizen advice - not specific to any company or their policy in regards to COVID-19. 
 
 The link to the demo website: https://covid-19-faqbot.azurewebsites.net/
 
