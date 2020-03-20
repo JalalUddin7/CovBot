@@ -8,15 +8,15 @@ Credit: Based on Joe Plumb’s suggestion.
 
 The link to the demo website: https://covid-19-faqbot.azurewebsites.net/
 
+![img](https://i.ibb.co/D4QzByV/CovBot.png)
+
 **Question:** 
 
-“What are the symptoms?”
+“What is coronavirus?”
 
 **Response:** 
 
-“We are still learning more about the symptoms that this virus causes in infected people as the outbreak progresses. Symptoms associated with coronaviruses can vary:
-
-- Common coronaviruses can cause symptoms similar to a common cold, such as fever, cough, sore throat, and feeling unwell.”
+"Coronaviruses are a large family of viruses that are known to cause illness ranging from the common cold to more severe diseases such as Severe Acute Respiratory syndrome (SARS) and Middle East Respiratory Syndrome (MERS)."
 
 ## Steps to reproduce:
 
